@@ -1,0 +1,23 @@
+{
+  "name": "Fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch __test__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceanegatien/Fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oceanegatien/Fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/oceanegatien/Fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
